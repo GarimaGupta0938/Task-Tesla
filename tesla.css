@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+h3{text-align: center;}
+.dropdown-menu li .dropdown-item {
+    text-align: left;
+}
+a:link {
+	text-decoration: none;
+	padding-left: 5px;
+	color: #FFFFFF;
+}
+a:hover{
+	color: #C1114B;
+	font-size: 15px;
+}
+a:visited{
+	color: #000000;
+	text-decoration: underline;
+}
+.container{
+	background-color: #340270;
+}
+.navbar.navbar-inverse .container-fluid .btn-group {
+}
+.navbar.navbar-inverse .container-fluid .btn-group {
+    float: left;
+}
+
+
+
+footer .main-footer{  padding: 20px 0;  background: #221C3E;}
+footer ul{  padding-left: 0;  list-style: none;}
+
+
+.footer-copyright { background: #FFFFFF; padding: 5px 0;}
+.footer-copyright .logo {    display: inherit;}
+.footer-copyright nav {    float: right;    margin-top: 5px;}
+.footer-copyright p { color: #FFFFFF; margin: 2px 0 0;}
+
+
+.typo-light h1, 
+.typo-light h2, 
+.typo-light h3, 
+.typo-light h4, 
+.typo-light h5, 
+.typo-light h6,
+.typo-light p,
+.typo-light div,
+.typo-light span,
+.typo-light small{  color: #FFFFFF;}
+
+
+
+#contfooter{
+ background-color:#221C3E;
+}
+#con {
+	background-color:#221C3E;}
+ #contfoot{
+	background-color:#221C3E;}
+#contfoo{
+	background-color:#221C3E;}
+#contfoote{
+	background-color:#221C3E;}
+#contf{
+	background-color:#221C3E;;
+}
+#demo.carousel-control-prev-icon:hover{
+	background-color: rgba(0,0,0,0.8);
+}
+.scroll {
+    color: #fff;
+    
+}
+
+#toTopBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 39px;
+    z-index: 98;
+    padding: 21px;
+    background-color: rgba(133,137,232,0.8)
+}
+
+
+
+.cd-top {
+    position: fixed;
+    display: inline-block;
+
+    background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg) no-repeat center 50%;
+	background-color: #6181F2;}
